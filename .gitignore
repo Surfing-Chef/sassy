@@ -1,0 +1,88 @@
+
+# Wordpress Files #
+###################
+
+*.log
+wp-config.php
+wp-content/advanced-cache.php
+wp-content/backup-db/
+wp-content/backups/
+wp-content/blogs.dir/
+wp-content/cache/
+wp-content/upgrade/
+wp-content/uploads/
+wp-content/wp-cache-config.php
+wp-content/plugins/hello.php
+
+/.htaccess
+/license.txt
+/readme.html
+/sitemap.xml
+/sitemap.xml.gz
+
+# Windows Thumbnail cache files
+###############################
+Thumbs.db
+ehthumbs.db
+ehthumbs_vista.db
+
+# Windows Folder config file
+############################
+Desktop.ini
+
+# Windows Recycle Bin used on file shares
+#########################################
+$RECYCLE.BIN/
+
+# Windows Installer files
+#########################
+*.cab
+*.msi
+*.msm
+*.msp
+
+# Windows shortcuts
+###################
+*.lnk
+
+# Packages #
+############
+# It's better to unpack these files and commit the raw source because
+# git has its own built in compression methods.
+*.7z
+*.jar
+*.rar
+*.zip
+*.gz
+*.bzip
+*.bz2
+*.xz
+*.lzma
+*.cab
+
+# Packing-only formats #
+########################
+*.iso
+*.tar
+
+# Package management formats #
+##############################
+*.dmg
+*.xpi
+*.gem
+*.egg
+*.deb
+*.rpm
+*.msi
+*.msm
+*.msp
+
+# Logs and databases #
+######################
+*.log
+*.sql
+*.sqlite
+
+# Sass #
+########
+*.sass-cache*
