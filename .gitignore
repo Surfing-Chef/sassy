@@ -82,3 +82,7 @@ $RECYCLE.BIN/
 *.log
 *.sql
 *.sqlite
+
+# Sass #
+########
+*.sass-cache*
