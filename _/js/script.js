@@ -1,0 +1,1 @@
+function test(){return"Hello"}function test(){return"Test"}
