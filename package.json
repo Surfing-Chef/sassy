@@ -1,0 +1,23 @@
+{
+  "name": "rouxmeetups",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.html",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Surfing-Chef/sassy.git"
+  },
+  "author": "Surfing Chef",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Surfing-Chef/sassy/issues"
+  },
+  "homepage": "https://github.com/Surfing-Chef/sassy#readme",
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-contrib-compass": "^1.1.1",
+    "grunt-contrib-uglify": "^2.0.0",
+    "grunt-contrib-watch": "^1.0.0",
+    "matchdep": "^1.0.1"
+  }
+}
